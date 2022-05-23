@@ -1,4 +1,4 @@
-Coodoo Style Flutter Project
+coodoo Style Flutter Project
 
 A `coodoo style` Flutter project.
 
