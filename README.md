@@ -16,4 +16,4 @@ make docs
 ```
 
 
-(https://coodoo.de).
+https://coodoo.de
