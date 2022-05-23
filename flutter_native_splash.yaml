@@ -1,0 +1,6 @@
+flutter_native_splash:
+  image: assets/splash/logo.png
+  background_image: assets/splash/logo_bg.png
+  ios_content_mode: center
+  android_gravity: center
+  web_image_mode: center

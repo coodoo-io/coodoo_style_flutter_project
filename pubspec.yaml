@@ -1,0 +1,52 @@
+name: coodoo_style_flutter_project
+description: A `coodoo style` Flutter project.
+
+publish_to: "none"
+
+version: 0.1.0+1
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+  flutter: ^2.10.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  dio: ^4.0.6 # HTTP Client
+  flutter_riverpod: ^1.0.3 # State Management + Dependency Injection
+  freezed_annotation: ^2.0.1
+  json_annotation: ^4.5.0
+  intl: ^0.17.0 # Translations, date/number formatting per language
+  device_info_plus: ^3.2.3 # User-Agent of Device
+  package_info_plus: ^1.4.2 # Show App Version in App
+  flutter_svg: ^1.0.3 # Handling .svg
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.4
+  build_runner: ^2.1.10 # Generating files with dart
+  freezed: ^2.0.2 # immutable data classes + unions
+  json_serializable: ^6.1.6 # JSON
+  flutter_launcher_icons: ^0.9.1 # Generate App-Icons
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/fonts/
+    - assets/icons/
+    - assets/logo/
+    - assets/splash/
+  
+  # fonts:
+  #   - family: OpenSans
+  #     fonts:
+  #       - asset: assets/fonts/OpenSans-Regular.ttf
+  #         weight: 400
+  #       - asset: assets/fonts/OpenSans-SemiBold.ttf
+  #         weight: 600
+  #       - asset: assets/fonts/OpenSans-Bold.ttf
+  #         weight: 700
+

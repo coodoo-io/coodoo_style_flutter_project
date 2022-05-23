@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Coodoo Style Flutter Project",
+        "request": "launch",
+        "program": "lib/main.dart",
+        "type": "dart"
+      },
+      {
+        "name": "Coodoo Style Flutter Project (profile mode)",
+        "request": "launch",
+        "program": "lib/main.dart",
+        "type": "dart",
+        "flutterMode": "profile"
+      }
+    ]
+  }
+  
