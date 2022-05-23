@@ -1,4 +1,4 @@
-coodoo Style Flutter Project
+coodoo Style Flutter Project based on riverpod state architecture.
 
 A `coodoo style` Flutter project.
 
@@ -14,3 +14,6 @@ make run
 # Dokumentation einsehen
 make docs
 ```
+
+
+(https://coodoo.de).
